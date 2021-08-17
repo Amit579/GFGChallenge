@@ -1,2 +1,2 @@
 # GFGChallenge
-GFG News Challenge
+GFG New Challenge
